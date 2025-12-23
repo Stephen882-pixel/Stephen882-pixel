@@ -3,7 +3,8 @@ public class SoftwareEngineer {
     private String name = "Stephen Omondi";
     private String location = "Nairobi, Kenya";
     private String[] currentFocus = {"TypeScript", "DevOps", "Cloud Architecture"};
-    private String[] expertise = {"Python", "Java", "TypeScript", "Golang"};
+    private String[] expertise = {"Python", "Java", "TypeScript", "JavaScript", "Golang"};
+    private String[] backend = {"Django REST", "Spring Boot", "Node.js", "Express.js"};
     
     public void sayHi() {
         System.out.println("Thanks for dropping by! Let's build something amazing together 🚀");
@@ -28,23 +29,19 @@ public class SoftwareEngineer {
 
 ---
 
-## 🚀 What I'm Up To
-
-- 🔭 **Current Project:** Building an [Angular Application](https://meru-innovators-club-frontend.vercel.app/) for the Meru Innovators Club
-- 🌱 **Learning Journey:** Diving deep into **TypeScript** and **DevOps** practices
-- 👯 **Open to Collaborate:** Fullstack Web Development projects
-- 💡 **Exploring:** Cloud-native architectures and microservices
-
 ## 💼 Tech Arsenal
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Frameworks & Tools
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -91,8 +88,8 @@ I share my thoughts and technical insights on [Medium](https://medium.com/@ondey
 
 ## 💬 Ask Me About
 
-**Backend:** Python Django REST, Java Spring Boot, Go microservices  
-**Frontend:** Angular, TypeScript, Tailwind CSS  
+**Backend:** Python Django REST, Java Spring Boot, Node.js/Express.js, Go microservices  
+**Frontend:** Angular, TypeScript, JavaScript, Tailwind CSS  
 **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD pipelines  
 **Messaging:** Apache Kafka, RabbitMQ
 
