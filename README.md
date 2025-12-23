@@ -17,6 +17,8 @@ public class SoftwareEngineer {
 ```
 
 <div align="center">
+
+<img src="https://github.com/Stephen882-pixel/assets/blob/master/profile.jpeg" alt="Stephen Omondi" width="300" style="border-radius: 50%; border: 5px solid #0e75b6;"/>
   
 # 👋 Welcome to My Digital Workshop
 
