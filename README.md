@@ -1,40 +1,111 @@
-<h1 align="center">Hi 👋, I'm Stephen Omondi</h1>
-<h3 align="center">A passionate Software Engineer from Kenya.</h3>
+```java
+public class SoftwareEngineer {
+    private String name = "Stephen Omondi";
+    private String location = "Nairobi, Kenya";
+    private String[] currentFocus = {"TypeScript", "DevOps", "Cloud Architecture"};
+    private String[] expertise = {"Python", "Java", "TypeScript", "Golang"};
+    
+    public void sayHi() {
+        System.out.println("Thanks for dropping by! Let's build something amazing together 🚀");
+    }
+    
+    public String getCurrentProject() {
+        return "Building innovative solutions with Angular & Spring Boot";
+    }
+}
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephen882-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="stephen882-pixel" /> </p>
+<div align="center">
+  
+# 👋 Welcome to My Digital Workshop
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephen882-pixel" alt="stephen882-pixel" /></a> </p>
+### A Passionate Software Engineer Crafting Elegant Solutions from Kenya
 
-<p align="left"> <a href="https://twitter.com/stefan_ondeyo" target="blank"><img src="https://img.shields.io/twitter/follow/stefan_ondeyo?logo=twitter&style=for-the-badge" alt="stefan_ondeyo" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=stephen882-pixel&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/stephen882-pixel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stefan_ondeyo?logo=twitter&style=for-the-badge)](https://twitter.com/stefan_ondeyo)
 
-- 🔭 I’m currently working on an [An Angular application](https://meru-innovators-club-frontend.vercel.app/)
+</div>
 
-- 🌱 I’m currently learning **TypeScript, Devops**
+---
 
-- 👯 I’m looking to collaborate on **Fullstack Web Development**
+## 🚀 What I'm Up To
 
-- 👨‍💻 All of my projects are available at [https://stephen-omondi-portfolio.vercel.app/](https://stephen-omondi-portfolio.vercel.app/)
+- 🔭 **Current Project:** Building an [Angular Application](https://meru-innovators-club-frontend.vercel.app/) for the Meru Innovators Club
+- 🌱 **Learning Journey:** Diving deep into **TypeScript** and **DevOps** practices
+- 👯 **Open to Collaborate:** Fullstack Web Development projects
+- 💡 **Exploring:** Cloud-native architectures and microservices
 
-- 📝 I regularly write articles on [https://medium.com/@ondeyostephen0](https://medium.com/@ondeyostephen0)
+## 💼 Tech Arsenal
 
-- 💬 Ask me about **Python, Java,Type Script, Golang Django Rest, Spring Boot,Angular, AWS**
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-- 📫 How to reach me **stephenondeyo0@gmail.com**
+### Frameworks & Tools
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stefan_ondeyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stefan_ondeyo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-ondeyo-5236x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-ondeyo-5236x/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/stephenpixel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/stephenpixel/" height="30" width="40" /></a>
-<a href="https://medium.com/@ondeyostephen0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ondeyostephen0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ondeyostephen5656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ondeyostephen5656" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Analytics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=stephen882-pixel&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephen882-pixel&show_icons=true&locale=en&layout=compact" alt="stephen882-pixel" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephen882-pixel&show_icons=true&locale=en&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephen882-pixel&show_icons=true&locale=en" alt="stephen882-pixel" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephen882-pixel&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen882-pixel&" alt="stephen882-pixel" /></p>
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=stephen882-pixel&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📝 Latest from My Blog
+
+I share my thoughts and technical insights on [Medium](https://medium.com/@ondeyostephen0). Check out my latest articles on software engineering, cloud architecture, and development best practices.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://stephen-omondi-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ondeyo-5236x/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stefan_ondeyo)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ondeyostephen0)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephenpixel/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ondeyostephen5656)
+
+</div>
+
+## 💬 Ask Me About
+
+**Backend:** Python Django REST, Java Spring Boot, Go microservices  
+**Frontend:** Angular, TypeScript, Tailwind CSS  
+**Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD pipelines  
+**Messaging:** Apache Kafka, RabbitMQ
+
+## 📫 Reach Out
+
+**Email:** stephenondeyo0@gmail.com
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+⭐️ From [stephen882-pixel](https://github.com/stephen882-pixel)
+
+</div>
